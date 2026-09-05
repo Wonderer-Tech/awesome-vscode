@@ -1,4 +1,4 @@
-# Awesome Visual Studio Code [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Visual Studio Code [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1021722365.svg)](https://doi.org/10.5281/zenodo.19682088)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -88,9 +88,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Microsoft](https://github.com/awesomelistsio/awesome-microsoft)**
-- **[Awesome Node.js](https://github.com/awesomelistsio/awesome-nodejs)**
-- **[Awesome GitHub](https://github.com/awesomelistsio/awesome-github)**
+- **[Awesome Microsoft](https://github.com/brandonhimpfen/awesome-microsoft)**
+- **[Awesome Node.js](https://github.com/brandonhimpfen/awesome-nodejs)**
+- **[Awesome GitHub](https://github.com/brandonhimpfen/awesome-github)**
   
 ## Contribute
 

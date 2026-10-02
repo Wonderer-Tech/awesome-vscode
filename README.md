@@ -58,8 +58,9 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Productivity
 
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) – Autocompletes filenames.
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) – Spelling checker for source code.
+- [DocuMint](https://marketplace.visualstudio.com/items?itemName=wonderertech.documint) – Generates source-grounded codebase maps and Markdown/HTML documentation locally in VS Code, with optional AI-enhanced explanations.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) – Autocompletes filenames.
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) – Highlights TODO comments in files.
 
 ## Version Control & Git
